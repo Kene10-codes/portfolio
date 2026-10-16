@@ -19,8 +19,7 @@ export const profile: Profile = {
     "TypeScript",
     "React",
     "Node.js",
-    "Mongo DB",
-    "PostgreSQL",
+    "Mongo DB"
   ],
 };
 
@@ -39,6 +38,14 @@ export const projects: readonly Project[] = [
     stack: ["React", "JavaScript", "Tailwind CSS", "MongoDB", "Node.js", "Express"],
     liveUrl: "#",
     repoUrl: "#",
+  },
+   {
+    title: "Spendwise",
+    summary:
+      "Spendwise is an application that allows users to manage their personal finances in one place.",
+    stack: ["HTML", "CSS", "JavaScript", "API"],
+    liveUrl: "https://jovial-zabaione-0efa78.netlify.app/",
+    repoUrl: "https://github.com/Kene10-codes/spendwise",
   },
   {
     title: "  Weather App",
