@@ -43,7 +43,7 @@ export const projects: readonly Project[] = [
     title: "Spendwise",
     summary:
       "Spendwise is an application that allows users to manage their personal finances in one place.",
-    stack: ["HTML", "CSS", "JavaScript", "API"],
+    stack: ["HTML", "CSS", "JavaScript", "React", "API","Node JS", "Tailwind CSS", "Mongo DB"],
     liveUrl: "https://jovial-zabaione-0efa78.netlify.app/",
     repoUrl: "https://github.com/Kene10-codes/spendwise",
   },
