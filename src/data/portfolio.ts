@@ -51,9 +51,9 @@ export const projects: readonly Project[] = [
     title: "  Weather App",
     summary:
       "Real-time weather updates across multiple locations.",
-    stack: ["HTML", "CSS", "JavaScript", "API"],
-    liveUrl: "https://weather-app-murex-phi.vercel.app/",
-    repoUrl: "https://github.com/Kene10-codes/weatherApp",
+    stack: ["React", "Tailwind CSS", "API", ],
+    liveUrl: "https://jade-rabanadas-3ee61a.netlify.app/",
+    repoUrl: "https://github.com/Kene10-codes/Weather-app",
   }
 ];
 
