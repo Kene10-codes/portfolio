@@ -51,7 +51,7 @@ export const projects: readonly Project[] = [
     title: "  Weather App",
     summary:
       "Real-time weather updates across multiple locations.",
-    stack: ["React", "Tailwind CSS", "API", ],
+    stack: ["React", "TypeScript", "Tailwind CSS", "API", ],
     liveUrl: "https://jade-rabanadas-3ee61a.netlify.app/",
     repoUrl: "https://github.com/Kene10-codes/Weather-app",
   }
