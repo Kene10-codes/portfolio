@@ -36,8 +36,8 @@ export const projects: readonly Project[] = [
     summary:
       "Techie Laptops is a technology retail business that specializes in selling laptops, phones, gaming products, accessories, and related gadgets.",
     stack: ["React", "JavaScript", "Tailwind CSS", "MongoDB", "Node.js", "Express"],
-    liveUrl: "#",
-    repoUrl: "#",
+    liveUrl: "https://techielaptops.netlify.app/",
+    repoUrl: "https://github.com/Kene10-codes/Techie-Laptops",
   },
    {
     title: "Spendwise",
