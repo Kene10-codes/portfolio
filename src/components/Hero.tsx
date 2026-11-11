@@ -22,7 +22,7 @@ export function Hero() {
           <a href="#work" className="focus-ring rounded-md bg-ink px-5 py-3 font-semibold text-white hover:bg-accent">
             See my work
           </a>
-          <a href="../assets/Kenechukwu_Nwobodo_Resume.pdf" download="Kenechukwu_Nwobodo_Resume" className="focus-ring rounded-md border border-ink px-5 py-3 font-semibold hover:bg-tint">
+          <a href="../assets/Kenechukwu Nwobodo - Frontend Engineer_CV.pdf" download="Kenechukwu_Nwobodo_Resume" className="focus-ring rounded-md border border-ink px-5 py-3 font-semibold hover:bg-tint">
             📥 Download Resume
           </a>
         </div>
